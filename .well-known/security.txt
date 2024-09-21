@@ -1,0 +1,5 @@
+Contact: mailto:security@anomal.xyz
+Expires: 2024-12-31T22:59:00.000Z
+Preferred-Languages: de, en
+Canonical: https://www.anomal.xyz/.well-known/security.txt
+Hiring: https://www.anomal.xyz/karriere#positions
